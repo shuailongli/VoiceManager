@@ -1,0 +1,3 @@
+previous_dir /Users/shuailongli/Documents
+working_dir /Users/shuailongli/Documents/DailyWorkoutRoutine
+path /Users/shuailongli/Dropbox/Desktop/ExoticHiggsDecay/Research_Diary/html_file
